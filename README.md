@@ -1,12 +1,9 @@
 # Joc_Pokemon
-Hola! Som en Claudi i en Felipe, i us presentem el nostre joc: Safari Zone. Aquest projecte està inspirat en l’univers Pokémon, però amb un toc personal i original.
+El nostre protagonista és un jove aventurer que des de petit somia amb convertir-se en el millor entrenador de criatures salvatges. Ha passat anys entrenant al costat de la seva inseparable tortuga de combat, i finalment ha arribat el moment de demostrar de què és capaç.
 
-L’objectiu del joc és eliminar els 5 enemics rivals, coneguts com els Safo. Per aconseguir-ho, comptareu amb l’ajuda de la mascota del protagonista, una tortuga de combat.
+Per fer realitat el seu somni, haurà d’endinsar-se a la llegendària Safari Zone, un territori salvatge on l’esperen 5 enemics poderosos: els Safo. 
+Safari Zone és un joc d’estratègia i acció inspirat en l’univers Pokémon, però amb un estil únic i personal.
 
-Quan aconsegueixis derrotar tots els Safo, hauràs completat l’aventura amb èxit!
-
-Hem creat aquest joc pensant en oferir una experiència divertida, amb molta emoció i baralles úniques que el fan diferent i entretingut.
-
-Esperem que us agradi tant com a nosaltres ens ha agradat desenvolupar-lo!
+L’objectiu del joc és derrotar els 5 Safo amb l’ajuda de la teva tortuga de combat, superant obstacles i prenent decisions tàctiques per avançar en el teu camí cap a la victòria.
 
 
