@@ -332,7 +332,7 @@ while True:
             pantalla_actual = 1
 
     if pantalla_actual == 5:
-        imprimir_pantalla_fons('assets1/game_over.png', 0, 0)
+        imprimir_pantalla_fons('assets1/game_over1.png', 0, 0)
 
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
